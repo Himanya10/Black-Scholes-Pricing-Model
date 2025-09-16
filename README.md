@@ -45,10 +45,12 @@ Then open the link provided in your terminal (usually http://localhost:8501).
 ## 📦 Requirements
 See requirements.txt:
 streamlit
-numpy
 pandas
-matplotlib
+numpy
 scipy
+plotly
+matplotlib
+seaborn
 ## 📊 Example Dashboard
 Once launched, you’ll see a dashboard with four heatmaps:
 🔹 Option Values 
