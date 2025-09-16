@@ -34,12 +34,14 @@ Green represents **positive values (profit)** and red represents **negative valu
    ```bash
    git clone https://github.com/your-username/black-scholes-heatmaps.git
    cd black-scholes-heatmaps
-Create and activate a virtual environment (optional but recommended):
-python -m venv venv
-source venv/bin/activate   # Mac/Linux
-venv\Scripts\activate      # Windows
-Install dependencies:
-pip install -r requirements.txt
+2. Create and activate a virtual environment (optional but recommended):
+     ```bash
+    git clone python -m venv venv
+    source venv/bin/activate   # Mac/Linux
+    venv\Scripts\activate      # Windows
+3. Install dependencies:
+   ```bash
+    pip install -r requirements.txt
 ## ▶️ Usage
 Run the app locally:
 streamlit run streamlit_app.py
