@@ -1,5 +1,7 @@
 # 📊 Black-Scholes Option Pricing & PNL Heatmaps
 
+https://black-scholes-pricing-model-ggowf4pffudqv5ykqqvzqm.streamlit.app/#call-pnl-heatmap 
+
 An interactive **Streamlit web app** to visualize Black–Scholes option pricing and profit & loss (PNL) for call and put options.  
 The app generates **4 heatmaps** based on user inputs:  
 
