@@ -5,5 +5,3 @@ scipy
 plotly
 matplotlib
 seaborn
-gunicorn
-flask
