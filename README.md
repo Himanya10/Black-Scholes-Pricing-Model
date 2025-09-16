@@ -48,13 +48,13 @@ streamlit run streamlit_app.py
 Then open the link provided in your terminal (usually http://localhost:8501).
 ## 📦 Requirements
 See requirements.txt:
-streamlit
-pandas
-numpy
-scipy
-plotly
-matplotlib
-seaborn
+1. streamlit
+2. pandas
+3. numpy
+4. scipy
+5. plotly
+6. matplotlib
+7. seaborn
 ## 📊 Example Dashboard
 Once launched, you’ll see a dashboard with four heatmaps:
 🔹 Option Values 
