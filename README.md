@@ -58,12 +58,12 @@ See requirements.txt:
 ## 📊 Example Dashboard
 Once launched, you’ll see a dashboard with four heatmaps:
   🔹 Option Values 
-    ![Call Value Heatmap](Screenshots/call_value.png)
-    ![Put Value Heatmap](Screenshots/put_value.png)
+    ![Call Value Heatmap](Screenshots/Call_Value.png)
+    ![Put Value Heatmap](Screenshots/Put_Value.png)
 
   🔹 Option PNL
-    ![Call PNL Heatmap](Screenshots/call_pnl.png)
-    ![Put PNL Heatmap](Screenshots/put_pnl.png)
+    ![Call PNL Heatmap](Screenshots/Call_Pnl.png)
+    ![Put PNL Heatmap](Screenshots/Put_Pnl.png)
 ## 📖 Background
 This project implements the Black–Scholes Model, a fundamental financial model for pricing European call and put options.
 PNL is calculated as:
