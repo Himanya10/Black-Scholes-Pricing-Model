@@ -57,13 +57,12 @@ See requirements.txt:
 7. seaborn
 ## 📊 Example Dashboard
 Once launched, you’ll see a dashboard with four heatmaps:
-🔹 Option Values 
-Call Value Heatmap
-Put Value Heatmap
-🔹 Option PNL
-Call PNL Heatmap
-Put PNL Heatmap
-Replace the screenshots/*.png files with your actual heatmap images after running the app.
+  🔹 Option Values 
+  Call Value Heatmap
+  Put Value Heatmap
+  🔹 Option PNL
+  Call PNL Heatmap
+  Put PNL Heatmap
 ## 📖 Background
 This project implements the Black–Scholes Model, a fundamental financial model for pricing European call and put options.
 PNL is calculated as:
