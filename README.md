@@ -109,18 +109,18 @@ source venv/bin/activate   # Mac/Linux
 venv\Scripts\activate      # Windows
 Install dependencies:
 pip install -r requirements.txt
-▶️ Usage
+## ▶️ Usage
 Run the app locally:
 streamlit run streamlit_app.py
 Then open the link provided in your terminal (usually http://localhost:8501).
-📦 Requirements
+## 📦 Requirements
 See requirements.txt:
 streamlit
 numpy
 pandas
 matplotlib
 scipy
-📊 Example Dashboard
+## 📊 Example Dashboard
 Once launched, you’ll see a dashboard with four heatmaps:
 🔹 Option Values
 Call Value Heatmap
@@ -129,9 +129,9 @@ Put Value Heatmap
 Call PNL Heatmap
 Put PNL Heatmap
 Replace the screenshots/*.png files with your actual heatmap images after running the app.
-📖 Background
+## 📖 Background
 This project implements the Black–Scholes Model, a fundamental financial model for pricing European call and put options.
 PNL is calculated as:
 PNL = Option Value – Purchase Price
-📝 License
+## 📝 License
 This project is licensed under the MIT License.
